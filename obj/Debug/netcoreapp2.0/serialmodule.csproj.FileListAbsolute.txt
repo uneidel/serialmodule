@@ -1,0 +1,10 @@
+/home/batzi/Dokumente/serialmodule/obj/Debug/netcoreapp2.0/serialmodule.csproj.CoreCompileInputs.cache
+/home/batzi/Dokumente/serialmodule/obj/Debug/netcoreapp2.0/serialmodule.AssemblyInfoInputs.cache
+/home/batzi/Dokumente/serialmodule/obj/Debug/netcoreapp2.0/serialmodule.AssemblyInfo.cs
+/home/batzi/Dokumente/serialmodule/bin/Debug/netcoreapp2.0/serialmodule.deps.json
+/home/batzi/Dokumente/serialmodule/bin/Debug/netcoreapp2.0/serialmodule.runtimeconfig.json
+/home/batzi/Dokumente/serialmodule/bin/Debug/netcoreapp2.0/serialmodule.runtimeconfig.dev.json
+/home/batzi/Dokumente/serialmodule/bin/Debug/netcoreapp2.0/serialmodule.dll
+/home/batzi/Dokumente/serialmodule/bin/Debug/netcoreapp2.0/serialmodule.pdb
+/home/batzi/Dokumente/serialmodule/obj/Debug/netcoreapp2.0/serialmodule.dll
+/home/batzi/Dokumente/serialmodule/obj/Debug/netcoreapp2.0/serialmodule.pdb
